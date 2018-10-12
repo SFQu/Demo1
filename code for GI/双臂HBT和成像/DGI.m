@@ -110,6 +110,8 @@ for I = 1 : Num    %  Ñ­»·½«NUM·ùÍ¼ÏñÀÛ¼Ó
          imshow(Cold2nor1,[]);title('Image-dif');
          imwrite(Cold2nor1,'J:\HBT\GI\20140324\0\GI\Image-dif5000.bmp','bmp');
      end
+
+     it is good!
      
      if I==Num2
          Image2Sump1 = ImageSump1;
