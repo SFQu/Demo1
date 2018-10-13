@@ -57,8 +57,3 @@ figure;
 imshow(Colg2nor,[]);title('HBT¹éÒ»»¯');
 figure;
 imshow(Colg2flu,[]);title('HBTÕÇÂä');
-
-figure;
-plot(Colg2(1:single1,100:100));
-
-insert a single line
